@@ -1,0 +1,145 @@
+nav {
+  font-family: "Istok Web", sans-serif;
+  font-size: 1.5em;
+  margin: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: #37474f;
+  font-weight: bold;
+}
+a:hover {
+  color: rgb(63, 196, 240);
+}
+.first-menu {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.second-menu {
+  display: flex;
+  justify-content: space-around;
+  margin: 2rem;
+}
+
+.fa-magnifying-glass {
+  font-size: 1.5em;
+  color: rgb(63, 196, 240);
+}
+
+/* section landing page image */
+
+.casa-rosada {
+  width: 100vw;
+  height: 550px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+/* section to do page text */
+
+.todo {
+  margin-top: 5rem;
+  text-align: center;
+}
+
+.rounded {
+  margin-top: 80px;
+  width: 50vh;
+  height: 40vh;
+  border-radius: 22px !important;
+}
+
+.reasons {
+  text-align: center;
+  background: #bbdefb;
+  padding: 2rem;
+  margin-top: 50px;
+}
+.reasons-to-come {
+  margin-top: 5rem;
+  font-size: 5em;
+  font-weight: bold;
+  font-family: "K2D";
+}
+
+.asado {
+  border-radius: 22px;
+  border: 5px solid black;
+  width: 500px;
+  height: 430px;
+}
+
+.gastronomy {
+  font-family: "K2D", sans-serif;
+  font-size: 3em;
+  font-style: italic;
+}
+
+.desc {
+  font-family: "K2D", sans-serif;
+  font-size: 1.2em;
+}
+
+/* social media section */
+
+.social-media {
+  margin-top: 5rem;
+  text-align: center;
+  height: 500px;
+}
+.fa-brands {
+  font-size: 10em;
+  color: black;
+  margin: 3rem;
+}
+
+/* footer */
+
+.footer {
+  background: #bbdefb;
+  width: 100%;
+  height: 400px;
+}
+
+hr {
+  border-left: 1.5px solid black;
+  height: 300px;
+  margin-top: 15px;
+  border-top: none;
+}
+
+.footer-text {
+  font-family: "K2D", sans-serif;
+  font-size: 1.5em;
+  margin-top: 100px;
+  margin-left: 20px;
+}
+
+span {
+  font-family: "K2D", sans-serif;
+  font-size: 1em;
+  margin-left: 20px;
+}
+
+.text {
+  font-family: "K2D", sans-serif;
+  margin-left: 15px;
+  text-align: center;
+}
+
+.baires {
+  font-family: "K2D", sans-serif;
+  font-weight: 800;
+  font-size: 8em;
+  text-align: center;
+}
+
+.fa-newspaper,
+.fa-envelope {
+  font-size: 4em;
+  margin-left: 15px;
+  text-align: center;
+  margin-top: 20px;
+}
